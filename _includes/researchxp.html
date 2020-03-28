@@ -1,0 +1,23 @@
+<div class="researchxp">
+	<h2>Teaching/Research Experience</h2>
+	<table border="1px">
+		<thead>
+			<tr>
+				<th>Position</th>
+				<th>Period</th>
+				<th>Duration</th>
+				<th>Teaching/Research</th>
+			</tr>
+		</thead>
+		<tbody>				
+			{% for item in site.data.researchxp %}
+			<tr>
+			<td> {{item.position}} </td>
+			<td> {{item.period}} </td>
+			<td> {{item.duration}} </td>
+			<td> {{item.torr}} </td>		
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>

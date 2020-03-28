@@ -1,0 +1,20 @@
+<div class="contact_details">
+	<table border="1px">
+		<thead>
+			{% for item in site.data.contact.info %}
+			<tr>
+				<th> {{item.head}} </th>
+				<th> {{item.data}} </th>
+			</tr>					
+			{% endfor %}
+		</thead>
+		<tbody>				
+			{% for item in site.data.contact.details %}
+			<tr>
+			<td> {{item.head}} </td>
+			<td> {{item.data}} </td>				
+			</tr> 
+			{% endfor %} 
+		</tbody>	
+	</table>
+</div>

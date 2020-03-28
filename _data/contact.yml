@@ -1,0 +1,22 @@
+---
+info:
+  - head: "NAME"
+    data: "Kusum Deep"
+
+details: 
+  - head: "TITLE"
+    data: "Professor"
+  - head: "OFFICIAL ADDRESS"
+    data: "Department of Mathematics, <br> Indian Institute of Technology Roorkee, <br> Roorkee – 247667 , India"
+  - head: "RESIDENTIAL ADDRESS"
+    data: "House No. 413/4, 35 – A, Civil Lines, <br> Roorkee – 247667 , India"
+  - head: "TELEPHONES"
+    data: "++91 – (0) 1332-285339 (Office) <br> ++91 – (0) 1332-275334 (Residence)"
+  - head: "CELL"
+    data: "++91 – (0) 9837164078"
+  - head: "FAX"
+    data: "++91 – (0) 1332-273560"
+  - head: "EMAIL"
+    data: "kusumfma@iitr.ernet.in, <br> kusumdeep@gmail.com"
+  - head: 'OFFICIAL WEB SITE'
+    data: '<a href="https://www.iitr.ac.in/departments/MA/pages/People+Faculty+Deep_Kusum.html">https://www.iitr.ac.in/departments/MA/pages/People+Faculty+Deep_Kusum.html</a>' 

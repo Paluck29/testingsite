@@ -1,0 +1,18 @@
+ # main links
+main:
+  - title: "Home"
+    url: /index/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Research"
+    url: /research/
+  - title: "Students"
+    url: /students/
+  - title: "Projects"
+    url: /project/
+  - title: "About SCRS"
+    url: /scrs/
+  - title: "Awards"
+    url: /awards/
+  - title: "Contact Me"
+    url: /contact/
