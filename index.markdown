@@ -23,4 +23,4 @@ permalink: /index/
 	Her areas of specialization are numerical optimization and their applications to engineering, science, finance and industry. Currently her research interests are Nature Inspired Optimization Techniques, particularly, Genetic Algorithms, Memetic Algorithms, Particle Swarm Optimization, Artificial Bee Colony, Biogeographical Based Optimization, Glowworm Optimization, Harmony Search Algorithm, and their applications to solve real life problems. She has travelled widely including Australia, United Kingdom, Russia, Korea, Iraq, Singapore, The Netherlands and France.
 </p>
 
-{% include researchxp.html   %}
+{% include /_includes/researchxp.html   %}
